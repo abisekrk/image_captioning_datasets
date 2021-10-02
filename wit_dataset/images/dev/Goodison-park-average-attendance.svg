@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1400" height="450" viewBox="0 0 1400 450">
+  <desc>Goodison Park Yearly Average Attendance</desc>
+  <style type="text/css">
+    text {
+      font-family: Verdana, Tahoma, sans-serif;
+      font-size: 12pt;
+      fill: black;
+      stroke: none;
+    }
+    /* As at 20080209, Wikipedia's SVG rasteriser couldn't make use of these styles. Leave them in in case it improves. */
+    #y-axis-numbers text {
+      text-anchor: end;
+    }
+    #x-axis-numbers text {
+      text-anchor: middle;
+    }
+  </style>
+  <defs>
+    <line id="horizontal-line" x1="1890" x2="2020" y1="0" y2="0" stroke-width="150"/>
+    <line id="vertical-line" x1="0" x2="0" y1="-1000" y2="1000" stroke-width="0.1"/>
+  </defs>
+  <g transform="translate(70,0)">
+    <g transform="translate(0,400) scale(10,-0.006) translate(-1890,0)">
+      <!--
+        ORDER OF TRANSFORMATIONS:
+        (1)    Shift origin from (x, y) to (0, 0) (e.g., from [1890, 0] to [0, 0])
+        (2)    Scale as appropriate (negative y-scale to since y-values increase as they go down the screen in SVG)
+        (3)    Shift down since now the graph goes above the image.
+      -->
+      <path d="
+        M 1893,0
+        L 1893,13433
+        L 1894,13800
+        L 1895,16060
+        L 1896,14927
+        L 1897,15913
+        L 1898,15380
+        L 1899,15529
+        L 1900,12853
+        L 1901,16765
+        L 1902,16647
+        L 1903,15286
+        L 1904,18472
+        L 1905,18412
+        L 1906,15474
+        L 1907,19579
+        L 1908,17316
+        L 1909,23579
+        L 1910,19684
+        L 1911,19000
+        L 1912,18211
+        L 1913,19368
+        L 1914,25316
+        L 1915,18632
+        L 1915,0
+        z
+  
+        M 1920,0
+        L 1920,28238
+        L 1921,37189
+        L 1922,31381
+        L 1923,30476
+        L 1924,28319
+        L 1925,25771
+        L 1926,26876
+        L 1927,31403
+        L 1928,37440
+        L 1929,29512
+        L 1930,32989
+        L 1931,26039
+        L 1932,35454
+        L 1933,26414
+        L 1934,27160
+        L 1935,26232
+        L 1936,29118
+        L 1937,30292
+        L 1938,30324
+        L 1939,35040
+        L 1939,0  
+        z
+  
+        M 1947,0
+        L 1947,40855
+        L 1948,44205
+        L 1949,45138
+        L 1950,43936
+        L 1951,42924
+        L 1952,37391
+        L 1953,32629
+        L 1954,44493
+        L 1955,46394
+        L 1956,42768
+        L 1957,35069
+        L 1958,39157
+        L 1959,39171
+        L 1960,40788
+        L 1961,43448
+        L 1962,41432
+        L 1963,51460
+        L 1964,49401
+        L 1965,42062
+        L 1966,38498
+        L 1967,42606
+        L 1968,46983
+        L 1969,45958
+        L 1970,49531
+        L 1971,41090
+        L 1972,37242
+        L 1973,34471
+        L 1974,35351
+        L 1975,40021
+        L 1976,27115
+        L 1977,30046
+        L 1978,39513
+        L 1979,35456
+        L 1980,28711
+        L 1981,26112
+        L 1982,24672
+        L 1983,20310
+        L 1984,19288
+        L 1985,32131
+        L 1986,32388
+        L 1987,32977
+        L 1988,27782
+        L 1989,27787
+        L 1990,26353
+        L 1991,25127
+        L 1992,23140
+        L 1993,20457
+        L 1994,22886
+        L 1995,31368
+        L 1996,35439
+        L 1997,36188
+        L 1998,35355
+        L 1999,36202
+        L 2000,34880
+        L 2001,34131
+        L 2002,34004
+        L 2003,38481
+        L 2004,38837
+        L 2005,36834
+        L 2006,36827
+        L 2007,36739
+        L 2008,36955
+        L 2009,35667
+        L 2010,36725
+        L 2011,36113
+        L 2012,33228
+        L 2013,36356
+        L 2014,37732
+        L 2015,38406
+        L 2016,38228
+        L 2017,39310
+        L 2018,38797
+        L 2019,38780
+        L 2020,39150        
+        L 2020,0
+        z"
+            stroke="none" fill="#555"/>
+      <!-- X-axis -->
+      <g stroke="black">
+        <use xlink:href="#horizontal-line" x="0" y="0" stroke="black"/>
+        <use xlink:href="#vertical-line" x="1890"/>
+        <use xlink:href="#vertical-line" x="1900"/>
+        <use xlink:href="#vertical-line" x="1910"/>
+        <use xlink:href="#vertical-line" x="1920"/>
+        <use xlink:href="#vertical-line" x="1930"/>
+        <use xlink:href="#vertical-line" x="1940"/>
+        <use xlink:href="#vertical-line" x="1950"/>
+        <use xlink:href="#vertical-line" x="1960"/>
+        <use xlink:href="#vertical-line" x="1970"/>
+        <use xlink:href="#vertical-line" x="1980"/>
+        <use xlink:href="#vertical-line" x="1990"/>
+        <use xlink:href="#vertical-line" x="2000"/>
+        <use xlink:href="#vertical-line" x="2010"/>
+        <use xlink:href="#vertical-line" x="2020"/>
+      </g>
+      <!-- Horizontal grid lines -->
+      <g stroke="#ccc">
+        <use xlink:href="#horizontal-line" x="0" y="10000"/>
+        <use xlink:href="#horizontal-line" x="0" y="20000"/>
+        <use xlink:href="#horizontal-line" x="0" y="30000"/>
+        <use xlink:href="#horizontal-line" x="0" y="40000"/>
+        <use xlink:href="#horizontal-line" x="0" y="50000"/>
+        <use xlink:href="#horizontal-line" x="0" y="60000"/>
+      </g>
+    </g>
+    <g id="y-axis-numbers" transform="translate(-3,6)" style="text-anchor: end;">
+      <text x="0" y="400">0</text>
+      <text x="0" y="340">10,000</text>
+      <text x="0" y="280">20,000</text>
+      <text x="0" y="220">30,000</text>
+      <text x="0" y="160">40,000</text>
+      <text x="0" y="100">50,000</text>
+      <text x="0" y="40">60,000</text>
+    </g>
+    <g id="x-axis-numbers" transform="translate(0,20)" style="text-anchor: middle;">
+      <text    x="0" y="400">1890</text>
+      <text  x="100" y="400">1900</text>
+      <text  x="200" y="400">1910</text>
+      <text  x="300" y="400">1920</text>
+      <text  x="400" y="400">1930</text>
+      <text  x="500" y="400">1940</text>
+      <text  x="600" y="400">1950</text>
+      <text  x="700" y="400">1960</text>
+      <text  x="800" y="400">1970</text>
+      <text  x="900" y="400">1980</text>      
+      <text x="1000" y="400">1990</text>
+      <text x="1100" y="400">2000</text>
+      <text x="1200" y="400">2010</text>
+      <text x="1300" y="400">2020</text>
+    </g>
+  </g>
+</svg>

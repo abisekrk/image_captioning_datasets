@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1772px" height="1063px" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1398.95 839.368"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#1F1A17;stroke-width:6.58065}
+    .str1 {stroke:#1F1A17;stroke-width:6.57785}
+    .fil3 {fill:none}
+    .fil1 {fill:#009900}
+    .fil0 {fill:#FFCC00}
+    .fil2 {fill:white}
+   ]]>
+  </style>
+ </defs>
+ <g id="Capa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0" points="0,0 1166.43,349.929 1398.95,419.684 1165.42,489.741 0,839.368 "/>
+  <ellipse class="fil1" cx="326.421" cy="419.684" rx="233.158" ry="233.157"/>
+  <path class="fil2 str0" d="M271.038 618.192l110.711 0 13.0251 -53.8791c-68.3805,-27.6031 -68.3805,-27.6031 -139.15,-1.47636l15.4136 55.3554z"/>
+  <g>
+   <line class="fil3 str1" x1="326.393" y1="211.166" x2="326.393" y2= "543.432" />
+  </g>
+  <line class="fil3 str0" x1="291.556" y1="259.993" x2="271.563" y2= "422.82" />
+  <line class="fil3 str0" x1="361.194" y1="259.693" x2="381.223" y2= "422.82" />
+  <line class="fil3 str0" x1="316.95" y1="259.969" x2="296.955" y2= "422.82" />
+  <line class="fil3 str0" x1="355.833" y1="422.82" x2="335.877" y2= "260.298" />
+  <polygon class="fil2 str0" points="326.393,211.166 381.748,222.71 326.393,241.424 "/>
+  <path class="fil2 str0" d="M258.013 308.852l22.7944 -53.1861 91.1759 0 22.7907 53.1861c-66.4677,-19.3913 -68.3787,-19.3913 -136.761,0z"/>
+  <path class="fil2 str0" d="M224.929 403.418l33.5505 -78.2851 134.203 0 33.5449 78.2851c-97.834,-28.5432 -100.647,-28.5432 -201.298,0z"/>
+  <path class="fil2 str0" d="M179.864 536.787l48.8438 -113.968 195.372 0 48.8363 113.968c-142.429,-41.5534 -146.523,-41.5534 -293.052,0z"/>
+ </g>
+</svg>

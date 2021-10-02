@@ -1,0 +1,24 @@
+<svg width="600" height="660" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<radialGradient id="sheen" cx="221" cy="226" fx="221" fy="226" r="300" gradientTransform="matrix(1.353218,0,0,1.348928,-77,-85)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFF" stop-opacity=".31"/>
+<stop offset="0.19" stop-color="#FFF" stop-opacity=".25"/>
+<stop offset="0.6" stop-color="#6B6B6B" stop-opacity=".13"/>
+<stop offset="1" stop-color="#000" stop-opacity=".13"/>
+</radialGradient>
+</defs>
+<g fill="#E20909">
+<path id="shield" d="M1.5 1.5h597V280A570 445 0 0 1 300 658.5 570 445 0 0 1 1.5 280Z"/>
+</g>
+<g stroke="#000">
+<g id="motif3">
+<path id="motif" d="M300 21.09l70.01 88.45L300 198.05l-69.2-88.51Zm0 41.33-37.55 47.13L300 157.09l38.54-47.54Z" fill="#FCEF3C" stroke-width="5"/>
+<use xlink:href="#motif" x="-194"/>
+<use xlink:href="#motif" x="194"/>
+</g>
+<use xlink:href="#motif3" y="206"/>
+<use xlink:href="#motif" y="426.33"/>
+
+<use xlink:href="#shield" fill="url(#sheen)" stroke-width="3"/>
+</g>
+</svg>

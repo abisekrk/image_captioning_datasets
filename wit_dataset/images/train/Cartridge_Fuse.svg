@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="515"
+   height="380"
+   id="svg2">
+  <defs
+     id="defs4" />
+  <path
+     d="M 220,205 C 220,202 222,200 225,200 C 265,200 295,190 315,175 L 415,175 L 415,184 L 407,184 L 407,191 L 430,191 L 430,200 L 220,210 L 220,205 z M 220,235 C 220,238 222,240 225,240 C 265,240 295,250 315,265 L 415,265 L 415,256 L 407,256 L 407,249 L 430,249 L 430,240 L 220,230 L 220,235 z"
+     id="path2505"
+     style="fill:#e5e7d7;stroke:#000000;stroke-width:1px" />
+  <path
+     d="M 430,211 C 428.4475,211 427.18497,214.55728 427.03125,219.09375 L 217,219.09375 L 217,220.90625 L 427.03125,220.90625 C 427.18497,225.44272 428.4475,229 430,229 C 431.656,229 433,224.968 433,220 C 433,215.032 431.656,211 430,211 z"
+     id="path3283"
+     style="fill:#0000ff" />
+  <path
+     d="M 248,194 C 246,195 244.02014,197.37437 240,197.5 L 224,198 C 219.99415,198.12518 218,201 218,204 L 218,236 C 218,239 220.99759,241.90617 224,242 L 240,242.5 C 244.1085,242.62839 246,245 247.89373,245.85881 M 410,186 C 411,187 412,189 415,189 L 432,189 L 432,210 C 430,208 425.5,210 425.5,220 C 425.5,230 430,232 432,230 L 432,251 L 415,251 C 412.01149,251.2069 411,253 410,254"
+     id="path2509"
+     style="fill:none;stroke:#ebcd68;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     d="M 190,188 L 220,188 C 222,188 222,189 222,190 L 222,193 C 222,193.82892 222,195 220,195 C 217,195 213.75086,198.01036 214,201 C 215,213 215,227 214,239 C 213.75086,241.98964 217,245 220,245 C 222.08645,245 222,246 222,247 L 222,250 C 222,251 222,252 220,252 L 210,252"
+     id="path3297"
+     style="fill:none;stroke:#ff0000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     d="M 437,200 L 443,200 L 443,196 L 449,196 L 449,200 L 455,200 L 455,125 L 437,125 L 437,135 L 363,135 L 363,155 L 437,155 L 437,200 z M 437,240 L 443,240 L 443,244 L 449,244 L 449,240 L 455,240 L 455,315 L 437,315 L 437,305 L 363,305 L 363,285 L 437,285 L 437,240 z"
+     id="path3293"
+     style="fill:#f3f3f0;stroke:#000000;stroke-width:1px" />
+  <path
+     d="M 435,198 L 435,163 C 435,159 433,157 429,157 L 365,157 C 361,157 361,169 356,169 C 351,169 351,161 347,161 C 343,161 343,169 338,169 C 333,169 333,161 329,161 C 325,161 325,169 320,169 C 315,169 315,161 311,161 C 307,161 307,169 302,169 M 435,242 L 435,277 C 435,281 433,283 429,283 L 365,283 C 361,283 361,271 356,271 C 351,271 351,279 347,279 C 343,279 343,271 338,271 C 333,271 333,279 329,279 C 325,279 325,271 320,271 C 315,271 315,279 311,279 C 307,279 307,271 302,271"
+     id="path3295"
+     style="fill:none;stroke:#c08d00;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     d="M 210,185 L 270,185 L 270,168 L 210,168 L 210,185 z M 210,255 L 270,255 L 270,272 L 210,272 L 210,255 z"
+     id="path3299"
+     style="fill:#e5d9d9;stroke:#000000;stroke-width:1px" />
+  <path
+     d="M 347,157 C 342,157 342,165 338,165 C 334,165 334,157 329,157 C 324,157 324,165 320,165 C 316,165 316,157 311,157 C 306,157 306,165 302,165 C 298,165 298,157 293,157 C 288,157 288,165 284,165 L 190,165 M 347,283 C 342,283 342,275 338,275 C 334,275 334,283 329,283 C 324,283 324,275 320,275 C 316,275 316,283 311,283 C 306,283 306,275 302,275 C 298,275 298,283 293,283 C 288,283 288,275 284,275 L 210,275"
+     id="path3301"
+     style="fill:none;stroke:#007047;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     d="M 210,162 L 283,162 L 283,155 L 355,155 L 355,135 L 220,135 L 220,115 L 210,115 L 210,162 z M 210,320 L 210,278 L 283,278 L 283,285 L 355,285 L 355,305 L 220,305 L 220,320 L 210,320 z"
+     id="path3316"
+     style="fill:#e5d9d9;stroke:#000000;stroke-width:1px" />
+  <g
+     transform="translate(-30,5)"
+     id="g3349"
+     style="font-size:16px;font-family:Bitstream Vera Sans">
+    <text
+       x="185"
+       y="130"
+       id="text3320"
+       xml:space="preserve"
+       style="text-anchor:end"><tspan
+         x="185"
+         y="130"
+         id="tspan3322">Current conductor</tspan><tspan
+         x="185"
+         y="150"
+         id="tspan3324">to the load</tspan></text>
+    <text
+       x="185"
+       y="195"
+       id="text3326"
+       xml:space="preserve"
+       style="text-anchor:end"><tspan
+         x="185"
+         y="195"
+         id="tspan3328">Current conductor</tspan><tspan
+         x="185"
+         y="215"
+         id="tspan3330">of the current network</tspan></text>
+    <text
+       x="185"
+       y="305"
+       id="text3357"
+       xml:space="preserve"
+       style="text-anchor:end">Notch</text>
+    <text
+       x="185"
+       y="260"
+       id="text3363"
+       xml:space="preserve"
+       style="text-anchor:end">Fitting element</text>
+    <text
+       x="465"
+       y="350"
+       id="text3365"
+       xml:space="preserve"
+       style="text-anchor:end">Security cartridge</text>
+    <text
+       x="465"
+       y="90"
+       id="text3367"
+       xml:space="preserve"
+       style="text-anchor:end">Screw cap</text>
+    <text
+       x="520"
+       y="25"
+       id="text3369"
+       xml:space="preserve"
+       style="text-anchor:end"><tspan
+         x="520"
+         y="25"
+         id="tspan3371">Melt wire with</tspan><tspan
+         x="520"
+         y="45"
+         id="tspan3373">colored release indicator</tspan></text>
+  </g>
+  <path
+     d="M 185,165 L 165,140"
+     id="path3375"
+     style="fill:none;stroke:#007047;stroke-width:2;stroke-linecap:round" />
+  <path
+     d="M 185,191 L 165,205"
+     id="path3377"
+     style="fill:none;stroke:#ff0000;stroke-width:2;stroke-linecap:round" />
+  <path
+     d="M 208,235 L 165,260"
+     id="path3379"
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round" />
+  <path
+     d="M 205,305 L 165,305"
+     id="path3381"
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round" />
+  <path
+     d="M 380,130 L 380,105"
+     id="path3383"
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round" />
+  <path
+     d="M 359,335 L 359,250"
+     id="path3385"
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round" />
+  <path
+     d="M 437.5,220 L 480,220 L 480,60"
+     id="path3387"
+     style="fill:none;stroke:#0000ff;stroke-width:2;stroke-linecap:round" />
+  <path
+     d="M 444,243 L 444,197 L 448,197 L 448,243 L 444,243 z"
+     id="path2412"
+     style="opacity:0.3;fill:#00ffff;stroke:#000000;stroke-width:0.69999999" />
+</svg>

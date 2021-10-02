@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="250"
+   height="250"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docname="Arabic Question mark (RTL).svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.16"
+     inkscape:cx="92.96411"
+     inkscape:cy="16.948568"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="964"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2383"
+       visible="true"
+       enabled="true"
+       spacingx="0.6px"
+       spacingy="0.6px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       transform="matrix(2.0678885,0,0,1.4491068,-232.28436,-3.628005)"
+       style="font-size:210px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+       d="M 203.9375,53.541841 C 203.93743,57.780242 202.70696,61.505824 200.24609,64.718599 C 197.4433,68.341755 193.85443,70.153277 189.47949,70.153169 C 186.06147,70.153277 183.22456,69.025348 180.96875,66.76938 C 178.71285,64.513634 177.58492,61.8818 177.58496,58.873872 C 177.58492,54.225558 179.4648,50.739234 183.22461,48.414888 C 186.98432,46.090801 188.8642,44.17674 188.86426,42.6727 C 188.8642,40.348619 187.77046,38.468738 185.58301,37.033052 C 183.39546,35.597647 180.52437,34.879874 176.96973,34.879732 C 172.52633,34.879874 168.8862,36.127432 166.04932,38.622408 C 163.21237,41.117661 161.79392,44.17674 161.79395,47.799654 C 161.79392,51.149389 163.22946,55.421846 166.10059,60.617036 C 170.47555,68.546833 173.14156,73.673781 174.09863,75.997896 C 176.96969,83.175725 178.40523,90.934506 178.40527,99.274263 C 178.40523,103.78606 178.06343,108.84464 177.37988,114.45004 L 171.125,114.34751 C 171.12496,113.1171 171.15914,112.16007 171.22754,111.47641 L 171.74023,106.14438 C 171.7402,102.31633 169.2109,98.146413 164.15234,93.634615 C 155.53904,85.978456 150.82225,81.67182 150.00195,80.714693 C 144.87499,74.630811 142.31152,67.794881 142.31152,60.20688 C 142.31152,50.978491 145.38769,43.322249 151.54004,37.23813 C 157.69236,31.154292 165.31442,28.112303 174.40625,28.112154 C 182.60933,28.112303 189.58198,30.453609 195.32422,35.136079 C 201.06634,39.818834 203.93743,45.954082 203.9375,53.541841 L 203.9375,53.541841 z M 185.27539,136.08579 C 185.27534,139.57215 184.02778,142.56287 181.53271,145.05795 C 179.03755,147.5531 176.01265,148.80066 172.45801,148.80063 C 169.10836,148.80066 166.20309,147.53601 163.74219,145.00668 C 161.28122,142.47742 160.05076,139.50379 160.05078,136.08579 C 160.05076,132.53114 161.29831,129.50624 163.79346,127.01108 C 166.28854,124.51602 169.31344,123.26846 172.86816,123.2684 C 176.35445,123.26846 179.2939,124.53311 181.68652,127.06235 C 184.07905,129.59169 185.27534,132.5995 185.27539,136.08579 L 185.27539,136.08579 z"
+       id="flowRoot2385" />
+  </g>
+</svg>

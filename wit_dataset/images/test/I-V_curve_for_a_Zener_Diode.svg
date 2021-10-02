@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="559.092px" height="461.818px" viewBox="0 0 559.092 461.818" enable-background="new 0 0 559.092 461.818"
+	 xml:space="preserve">
+<g id="lines">
+	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="300.109" y1="7.418" x2="300.109" y2="448.218"/>
+	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="13.709" y1="233.817" x2="546.51" y2="233.817"/>
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M413.71,76.218
+		c-10.4,23.2-28.321,71.54-54.564,108.8c-1.378,1.957-33.071,57.688-137.161,72.639c-37.066,5.324-64.621,62.564-66.912,69.761
+		c-12.269,38.529-19.44,92.216-19.91,95.424"/>
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M58.966,422.842
+		c4.072-14.026,27.354-98.854,33.662-113.995c11.313-27.149,31.617-49.459,129.355-51.188"/>
+</g>
+<g id="arrows">
+	<g>
+		<g>
+			<g>
+				
+					<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="351.816" y1="245.991" x2="320.496" y2="245.991"/>
+				<g>
+					<polygon points="349.009,242.288 350.581,245.991 349.009,249.694 357.786,245.991 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				
+					<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="101.206" y1="276.435" x2="69.885" y2="276.435"/>
+				<g>
+					<polygon points="98.397,272.729 99.97,276.435 98.397,280.137 107.175,276.435 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				
+					<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="518.332" y1="245.991" x2="487.012" y2="245.991"/>
+				<g>
+					<polygon points="515.523,242.288 517.097,245.991 515.523,249.694 524.302,245.991 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				
+					<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="286.293" y1="16.079" x2="286.293" y2="73.098"/>
+				<g>
+					<polygon points="282.59,18.887 286.293,17.314 289.996,18.887 286.293,10.109 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				
+					<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="286.293" y1="152.73" x2="286.293" y2="209.75"/>
+				<g>
+					<polygon points="282.59,155.539 286.293,153.965 289.996,155.539 286.293,146.76 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				
+					<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="286.293" y1="305.597" x2="286.293" y2="248.577"/>
+				<g>
+					<polygon points="289.996,302.788 286.293,304.36 282.59,302.788 286.293,311.565 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				
+					<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="286.293" y1="442.247" x2="286.293" y2="385.229"/>
+				<g>
+					<polygon points="289.996,439.438 286.293,441.012 282.59,439.438 286.293,448.217 					"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="39.679" y1="245.991" x2="71" y2="245.991"/>
+			<g>
+				<polygon points="42.487,249.694 40.914,245.991 42.487,242.288 33.709,245.991 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			
+				<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="206.195" y1="245.991" x2="237.516" y2="245.991"/>
+			<g>
+				<polygon points="209.003,249.694 207.43,245.991 209.003,242.288 200.225,245.991 				"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="text">
+	<g>
+		<text transform="matrix(1 0 0 1 78.74 251.2842)" font-family="'DejaVuSansMono-Bold'" font-size="14">REVERSE BIAS</text>
+	</g>
+	<text transform="matrix(1 0 0 1 13.7092 227.8174)" font-family="'DejaVuSansMono-Bold'" font-size="14">-V</text>
+	<text transform="matrix(1 0 0 1 530.6375 227.8174)" font-family="'DejaVuSansMono-Bold'" font-size="14">+V</text>
+	<text transform="matrix(1 0 0 1 35.2307 280.2197)" font-family="'DejaVuSansMono-Bold'" font-size="12">KNEE</text>
+	<text transform="matrix(1 0 0 1 365.5261 252.0205)" font-family="'DejaVuSansMono-Bold'" font-size="14">FORWARD BIAS</text>
+	<text transform="matrix(0 -1 1 0 275.6765 181.8896)" font-family="'DejaVuSansMono-Bold'" font-size="14">FORWARD CURRENT</text>
+	<text transform="matrix(0 -1 1 0 275.6755 425.0576)" font-family="'DejaVuSansMono-Bold'" font-size="14">REVERSE CURRENT</text>
+	<path fill="none" d="M58.33,425.058c4.072-14.026,27.989-101.07,34.298-116.211c11.313-27.149,31.617-49.459,129.355-51.188"/>
+	<text transform="matrix(0.2723 -0.9622 0.9622 0.2723 55.8533 422.8301)" font-family="'DejaVuSansMono-Bold'" font-size="10">A</text>
+	<text transform="matrix(0.2723 -0.9622 0.9622 0.2723 57.5164 416.9463)" font-family="'DejaVuSansMono-Bold'" font-size="10">V</text>
+	<text transform="matrix(0.2723 -0.9622 0.9622 0.2723 59.1755 411.0488)" font-family="'DejaVuSansMono-Bold'" font-size="10">A</text>
+	<text transform="matrix(0.2723 -0.9622 0.9622 0.2723 60.8259 405.166)" font-family="'DejaVuSansMono-Bold'" font-size="10">L</text>
+	<text transform="matrix(0.2723 -0.9622 0.9622 0.2723 62.4832 399.2656)" font-family="'DejaVuSansMono-Bold'" font-size="10">A</text>
+	<text transform="matrix(0.2723 -0.9622 0.9622 0.2723 64.1443 393.3662)" font-family="'DejaVuSansMono-Bold'" font-size="10">N</text>
+	<text transform="matrix(0.2723 -0.9622 0.9622 0.2723 65.8025 387.4863)" font-family="'DejaVuSansMono-Bold'" font-size="10">C</text>
+	<text transform="matrix(0.2723 -0.9622 0.9622 0.2723 67.4773 381.5674)" font-family="'DejaVuSansMono-Bold'" font-size="10">H</text>
+	<text transform="matrix(0.2723 -0.9622 0.9622 0.2723 69.1482 375.6826)" font-family="'DejaVuSansMono-Bold'" font-size="10">E</text>
+	<text transform="matrix(0.2723 -0.9622 0.9622 0.2723 70.822 369.8096)" font-family="'DejaVuSansMono-Bold'" font-size="10"> </text>
+	<text transform="matrix(0.2723 -0.9622 0.9622 0.2723 72.5115 363.9102)" font-family="'DejaVuSansMono-Bold'" font-size="10">B</text>
+	<text transform="matrix(0.2723 -0.9622 0.9622 0.2723 74.2078 358.0156)" font-family="'DejaVuSansMono-Bold'" font-size="10">R</text>
+	<text transform="matrix(0.2723 -0.9622 0.9622 0.2723 75.905 352.1602)" font-family="'DejaVuSansMono-Bold'" font-size="10">E</text>
+	<text transform="matrix(0.2723 -0.9622 0.9622 0.2723 77.6228 346.2754)" font-family="'DejaVuSansMono-Bold'" font-size="10">A</text>
+	<text transform="matrix(0.2723 -0.9622 0.9622 0.2723 79.3562 340.3887)" font-family="'DejaVuSansMono-Bold'" font-size="10">K</text>
+	<text transform="matrix(0.2723 -0.9622 0.9622 0.2723 81.1091 334.5166)" font-family="'DejaVuSansMono-Bold'" font-size="10">D</text>
+	<text transform="matrix(0.2723 -0.9622 0.9622 0.2723 82.8826 328.6543)" font-family="'DejaVuSansMono-Bold'" font-size="10">O</text>
+	<text transform="matrix(0.2723 -0.9622 0.9622 0.2723 84.6951 322.7861)" font-family="'DejaVuSansMono-Bold'" font-size="10">W</text>
+	<text transform="matrix(0.2723 -0.9622 0.9622 0.2723 86.5603 316.9316)" font-family="'DejaVuSansMono-Bold'" font-size="10">N</text>
+	<path fill="none" d="M413.71,76.218c-10.4,23.2-48.031,96.45-54.564,108.8c-8.087,15.288-24.749,56.492-137.161,72.639
+		c-37.066,5.324-64.621,62.564-66.912,69.761c-5.229,16.42-16.066,71.351-19.91,97.64"/>
+	
+		<text transform="matrix(0.1515 -0.9885 0.9885 0.1515 132.1838 424.6201)" font-family="'DejaVuSansMono-Bold'" font-size="10.0004">Z</text>
+	
+		<text transform="matrix(0.1515 -0.9885 0.9885 0.1515 133.115 418.5557)" font-family="'DejaVuSansMono-Bold'" font-size="10.0004">E</text>
+	
+		<text transform="matrix(0.1515 -0.9885 0.9885 0.1515 134.1057 412.5117)" font-family="'DejaVuSansMono-Bold'" font-size="10.0004">N</text>
+	
+		<text transform="matrix(0.1515 -0.9885 0.9885 0.1515 135.1423 406.4707)" font-family="'DejaVuSansMono-Bold'" font-size="10.0004">E</text>
+	
+		<text transform="matrix(0.1515 -0.9885 0.9885 0.1515 136.2136 400.4287)" font-family="'DejaVuSansMono-Bold'" font-size="10.0004">R</text>
+	
+		<text transform="matrix(0.1515 -0.9885 0.9885 0.1515 137.3142 394.4004)" font-family="'DejaVuSansMono-Bold'" font-size="10.0004"> </text>
+	
+		<text transform="matrix(0.1515 -0.9885 0.9885 0.1515 138.4412 388.375)" font-family="'DejaVuSansMono-Bold'" font-size="10.0004">B</text>
+	
+		<text transform="matrix(0.1515 -0.9885 0.9885 0.1515 139.5935 382.3584)" font-family="'DejaVuSansMono-Bold'" font-size="10.0004">R</text>
+	
+		<text transform="matrix(0.1515 -0.9885 0.9885 0.1515 140.7712 376.3486)" font-family="'DejaVuSansMono-Bold'" font-size="10.0004">E</text>
+	
+		<text transform="matrix(0.1515 -0.9885 0.9885 0.1515 141.9724 370.3545)" font-family="'DejaVuSansMono-Bold'" font-size="10.0004">A</text>
+	
+		<text transform="matrix(0.1515 -0.9885 0.9885 0.1515 143.2058 364.3467)" font-family="'DejaVuSansMono-Bold'" font-size="10.0004">K</text>
+	
+		<text transform="matrix(0.1515 -0.9885 0.9885 0.1515 144.4685 358.3506)" font-family="'DejaVuSansMono-Bold'" font-size="10.0004">D</text>
+	
+		<text transform="matrix(0.1515 -0.9885 0.9885 0.1515 145.7634 352.3555)" font-family="'DejaVuSansMono-Bold'" font-size="10.0004">O</text>
+	
+		<text transform="matrix(0.1515 -0.9885 0.9885 0.1515 147.1008 346.377)" font-family="'DejaVuSansMono-Bold'" font-size="10.0004">W</text>
+	
+		<text transform="matrix(0.1515 -0.9885 0.9885 0.1515 148.4954 340.3906)" font-family="'DejaVuSansMono-Bold'" font-size="10.0004">N</text>
+	<text transform="matrix(0 -1 1 0 290.4236 126.9541)" font-family="'DejaVuSansMono-Bold'" font-size="12">IN mA</text>
+	<text transform="matrix(0 -1 1 0 290.4236 365.4219)" font-family="'DejaVuSansMono-Bold'" font-size="12">IN mA</text>
+</g>
+</svg>

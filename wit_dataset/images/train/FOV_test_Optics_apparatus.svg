@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 561.2 449.3" style="enable-background:new 0 0 561.2 449.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#808080;}
+	.st1{fill:#7F7F7F;}
+	.st2{font-family:'BitstreamVeraSerif-Roman';}
+	.st3{font-size:12px;}
+	.st4{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st5{stroke:#000000;stroke-miterlimit:10;}
+	.st6{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st7{fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:4.0294,4.0294;}
+	.st8{fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:4.0002,4.0002;}
+	.st9{fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:3.9006,3.9006;}
+</style>
+<title>FOV_test_Optics_apparatus</title>
+<circle class="st0" cx="288.5" cy="386.4" r="60.3"/>
+<rect x="154" y="218.1" class="st1" width="60" height="70.5"/>
+<text transform="matrix(1 0 0 1 0 132.27)" class="st2 st3">Of</text>
+<text transform="matrix(1 0 0 1 14.28 132.27)" class="st2 st3">f</text>
+<text transform="matrix(1 0 0 1 18.29 132.27)" class="st2 st3">-Axis</text>
+<text transform="matrix(1 0 0 1 0 146.67)" class="st2 st3">P</text>
+<text transform="matrix(1 0 0 1 7.54 146.67)" class="st2 st3">arabolic Mirror</text>
+<text transform="matrix(1 0 0 1 314 142.15)" class="st2 st3">F</text>
+<text transform="matrix(1 0 0 1 321.67 142.15)" class="st2 st3">old Mirror</text>
+<text transform="matrix(1 0 0 1 154 309.15)" class="st2 st3">Blackbody</text>
+<text transform="matrix(1 0 0 1 154 323.55)" class="st2 st3">(IR)</text>
+<text transform="matrix(1 0 0 1 320 259.77)" class="st2 st3">Beam Combiner</text>
+<text transform="matrix(1 0 0 1 298.5 211.27)" class="st2 st3">F</text>
+<text transform="matrix(1 0 0 1 306.17 211.27)" class="st2 st3">ocal Plane</text>
+<text transform="matrix(1 0 0 1 356 417.65)" class="st2 st3">Integrating</text>
+<text transform="matrix(1 0 0 1 356 432.05)" class="st2 st3">Shpere</text>
+<text transform="matrix(1 0 0 1 356 446.45)" class="st2 st3">(UV/</text>
+<text transform="matrix(1 0 0 1 383.5 446.45)" class="st2 st3">V</text>
+<text transform="matrix(1 0 0 1 391.96 446.45)" class="st2 st3">is)</text>
+<text transform="matrix(1 0 0 1 463.5 116.65)" class="st2 st3">Unit Under </text>
+<text transform="matrix(1 0 0 1 535.99 116.65)" class="st2 st3">T</text>
+<text transform="matrix(1 0 0 1 543.06 116.65)" class="st2 st3">est</text>
+<line class="st4" x1="82.5" y1="5.2" x2="424.4" y2="5.2"/>
+<polygon points="431.5,5.2 421.5,9.2 423.9,5.2 421.5,1.1 "/>
+<line class="st4" x1="62.9" y1="111.3" x2="421.9" y2="113.1"/>
+<polygon points="429,113.2 419,117.2 421.4,113.1 419.1,109 "/>
+<line class="st4" x1="274" y1="123.2" x2="82.5" y2="5.2"/>
+<line class="st4" x1="287.5" y1="222.1" x2="274" y2="123.2"/>
+<line class="st4" x1="301.5" y1="159.6" x2="287.5" y2="222.1"/>
+<line class="st4" x1="62.9" y1="111.3" x2="301.5" y2="159.6"/>
+<line class="st4" x1="271.5" y1="222.1" x2="308.5" y2="222.1"/>
+<path class="st5" d="M62.9,111.3l-24.5-4.4L57.5,0.6L82,5C60,35.9,52.8,71.1,62.9,111.3z"/>
+<rect x="287.2" y="115.5" transform="matrix(0.8107 -0.5855 0.5855 0.8107 -25.3993 197.601)" class="st5" width="11.2" height="45.2"/>
+<rect x="203.5" y="230.1" class="st6" width="11.5" height="47.5"/>
+<line class="st4" x1="226" y1="241.6" x2="228" y2="241.6"/>
+<line class="st7" x1="232" y1="241.6" x2="294.5" y2="241.6"/>
+<line class="st4" x1="296.5" y1="241.6" x2="298.5" y2="241.6"/>
+<line class="st4" x1="226" y1="266.1" x2="228" y2="266.1"/>
+<line class="st8" x1="232" y1="266.1" x2="270" y2="265.7"/>
+<line class="st4" x1="272" y1="265.7" x2="274" y2="265.6"/>
+<line class="st4" x1="274" y1="320.1" x2="274" y2="318.1"/>
+<line class="st9" x1="274" y1="314.3" x2="274" y2="238.2"/>
+<line class="st4" x1="274" y1="236.2" x2="274" y2="234.2"/>
+<polygon points="276.3,235.8 274,227.1 271.7,235.8 "/>
+<line class="st4" x1="298.5" y1="320.1" x2="298.5" y2="318.1"/>
+<line class="st9" x1="298.5" y1="314.3" x2="298.5" y2="238.2"/>
+<line class="st4" x1="298.5" y1="236.2" x2="298.5" y2="234.2"/>
+<polygon points="300.8,235.8 298.5,227.1 296.2,235.8 "/>
+<rect x="251.8" y="254.9" transform="matrix(0.7249 -0.6889 0.6889 0.7249 -100.1822 270.4551)" class="st4" width="73.5" height="11.5"/>
+<ellipse class="st6" cx="286.6" cy="333.9" rx="24.4" ry="7.7"/>
+<rect x="491" y="25.1" class="st4" width="60.5" height="73"/>
+<ellipse class="st4" cx="437.5" cy="61.2" rx="6" ry="24.5"/>
+<line class="st4" x1="437.5" y1="36.7" x2="491" y2="36.7"/>
+<line class="st4" x1="437.5" y1="85.7" x2="491" y2="85.7"/>
+</svg>
